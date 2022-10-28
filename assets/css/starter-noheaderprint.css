@@ -782,7 +782,7 @@ button.bg-dark:focus {
 @media print {
 	@page { 
 		margin: 0mm 0mm 0mm 0mm;
-		size:A4 8in 9.5in landscape;
+		size:landscape;
 	}
 }
 @media print {
