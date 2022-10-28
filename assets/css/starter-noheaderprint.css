@@ -776,6 +776,10 @@ button.bg-dark:focus {
     }
 }
 @media print {
+    .pagebreak { page-break-before: always; } /* page-break-after works, as well */
+}
+
+@media print {
 	@page { 
 		margin: 0mm 0mm 0mm 0mm;
 		size:A4 8in 9.5in landscape;
