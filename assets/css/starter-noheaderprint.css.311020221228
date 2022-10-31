@@ -3581,7 +3581,7 @@ a.text-dark:focus {
     font-style: normal;
 }
 body {
-    background: #fff;
+    background: #ccc;
     font-size: 14pt;
     font-family: "bnpp_sans", Arial, Helvetica, sans-serif;
     font-weight: normal;
@@ -3602,7 +3602,7 @@ page[size="A4"] {
 }
 header .topHeader {
     border-top: 1mm solid #00915a;
-    border-bottom: 1pt solid #fff;
+    border-bottom: 1pt solid #ccc;
 }
 header .topHeader img.logoBnp {
     width: 97mm;
@@ -3610,7 +3610,7 @@ header .topHeader img.logoBnp {
 }
 header .resume {
     padding: 2mm;
-    border-bottom: 1pt solid #fff;
+    border-bottom: 1pt solid #ccc;
 }
 header .resume ul {
     list-style: none;
@@ -3620,7 +3620,7 @@ header .resume ul {
 }
 header .resume ul li {
     padding: 0 3mm;
-    border-right: 1pt solid #fff;
+    border-right: 1pt solid #ccc;
 }
 header .resume .label {
     font-size: 8pt;
@@ -7233,7 +7233,7 @@ a.text-dark:focus {
     font-style: normal;
 }
 body {
-    background: #fff;
+    background: #ccc;
     font-size: 14pt;
     font-family: "bnpp_sans", Arial, Helvetica, sans-serif;
     font-weight: normal;
@@ -7254,7 +7254,7 @@ page[size="A4"] {
 }
 header .topHeader {
     border-top: 1mm solid #00915a;
-    border-bottom: 1pt solid #fff;
+    border-bottom: 1pt solid #ccc;
 }
 header .topHeader img.logoBnp {
     width: 97mm;
@@ -7262,7 +7262,7 @@ header .topHeader img.logoBnp {
 }
 header .resume {
     padding: 2mm;
-    border-bottom: 1pt solid #fff;
+    border-bottom: 1pt solid #ccc;
 }
 header .resume ul {
     list-style: none;
@@ -7272,7 +7272,7 @@ header .resume ul {
 }
 header .resume ul li {
     padding: 0 3mm;
-    border-right: 1pt solid #fff;
+    border-right: 1pt solid #ccc;
 }
 header .resume .label {
     font-size: 8pt;
